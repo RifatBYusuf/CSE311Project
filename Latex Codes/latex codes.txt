@@ -20,18 +20,23 @@
     
     \Huge\textbf{Smart Banking Solution}  
      \end{figure}
-    \vspace{0.2cm}
+  
     
     \begin{center}\large{DATABASE SYSTEM LAB}\\* 
                 \large{CSE311L}\\*   
                 \large{Section-2}\\*   
             \end{center}    
    
-    \begin{flushleft}\large{Student Name \& ID:\hspace{150}  Course Faculty }\\* 
+    \begin{flushleft}\large{Student Name \& ID:\hspace{150}  Course Faculty }\\*
+    \vspace{0.2cm} 
       \large{Rifat Bin Yusuf \hspace{150} Mr. Ahmed Fahmin}\\*
       \large{1912217642}\\*
-      \large{\hspace{260} Lab Instrcutor}\\*
-      \large{\hspace{230} Nazmul Alam Dipto}\\*
+     \vspace{0.5cm} 
+      \large{Rifat Azim} \hspace{200} {Lab Instrcutor}\\*
+      \large{1912353642} \hspace{170} {Nazmul Alam Dipto}\\*
+      \vspace{0.5cm} 
+      \large{Rafat Ahmed}\\*
+      \large{2012603642}\\*
      \end{flushleft} 
     \begin{center}
     \Large{Submission Date: 12/07/2021}\\*    
@@ -118,12 +123,10 @@
       \item JavaScript 
       \item PHP
       \item MySQL
-     \item Apache Web Server
-     \item SMTP Service     
+      \item Apache Web Server
+      \item SMTP Service     
      
     \end{itemize} 
-
-      
      \end{flushleft} 
      
      \vspace{1cm}
@@ -133,11 +136,6 @@
      
     \large{Obviously, there are some obstacles that we’ll need to overcome. Promotion of this website is crucial and difficult at the same time. Besides promotion, earning trust of the general public will also be a hefty task. In addition to that, crowd control & spam protecting will be an issue since we are aiming to build a huge community around the website. The shortage of moderators might affect the user experience in the long run.} 
      
-     
       \end{flushleft} 
-    
 \end{document}
-
-
-
 
