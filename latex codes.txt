@@ -1,0 +1,143 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{tikz}
+
+\begin{document}
+\noindent
+
+    \begin{figure}[h]
+    \centering
+    \includegraphics[scale = 0.5]{nsu logo.png}
+    
+    \Huge{North South University}
+    \label{NSU}    
+   
+    \Large{Department of Electrical and Computer Engineering}   
+    \setlength{\parskip}{1em}
+ 
+    \huge\textmd{Project Proposal} 
+    
+    \Huge\textbf{Smart Banking Solution}  
+     \end{figure}
+    \vspace{0.2cm}
+    
+    \begin{center}\large{DATABASE SYSTEM LAB}\\* 
+                \large{CSE311L}\\*   
+                \large{Section-2}\\*   
+            \end{center}    
+   
+    \begin{flushleft}\large{Student Name \& ID:\hspace{150}  Course Faculty }\\* 
+      \large{Rifat Bin Yusuf \hspace{150} Mr. Ahmed Fahmin}\\*
+      \large{1912217642}\\*
+      \large{\hspace{260} Lab Instrcutor}\\*
+      \large{\hspace{230} Nazmul Alam Dipto}\\*
+     \end{flushleft} 
+    \begin{center}
+    \Large{Submission Date: 12/07/2021}\\*    
+    \end{center} 
+    \thispagestyle{empty}
+    
+    
+  \breakpage
+  \newpage
+  \begin{flushleft}\huge\textbf{Prologue}\\*  
+   \vspace{0.5cm}
+  \large{Generally, personal finance management is a complicated task which is difficult to get into. Although many private and government controlled Banks offer plenty of information \& services, the majority of the people often end up with confusion about the whole Banking procedure. The situation is even worse in some cases due to the presence of illegal unions, frauds and scammers who often pretend to represent a Bank or institution. Our Website will provide a sufficient amount of information and contacts in the simplest manner. Anyone can visit this platform and get an answer for their query. Additionally, direct connection with some reputed Banks can also be established from this website.  
+}\\* 
+\end{flushleft}
+
+ 
+    \begin{flushleft}\huge\textbf{Goals}\\* 
+    \begin{itemize}
+    
+     \large\item Access to vast amount of Information related to Banking 
+     \item Access to a group of Banking experts 
+     \item Access to a community built around Banking & financial services 
+     \item To provide Advertisement opportunities
+     \item Opportunity to establish direct communication with desired Banks
+     \item Additional FAQ Section for Mobile Finance Services 
+     
+   \end{itemize}
+   \end{flushleft}  
+    \vspace{0.5cm}
+    \begin{flushleft}
+    \huge\textbf{Value Proposition}\\*
+    \vspace{0.5cm}
+    \large{Our primary vision is to reach out to general citizens and guide them to a meaningful Banking experience. Additionally, the website will minimize the time and effort required to access accurate information related to Banking. Hence, fraudulent businesses won’t be able to harm anyone financially. Moreover, there are business opportunities embedded within the website’s design where Banks & certified agents can represent and promote their Bank.
+    }    
+    
+    \end{flushleft}
+     \thispagestyle{empty}
+     
+     \breakpage
+     \newpage
+  \begin{flushleft}\huge\textbf{Web Application Features & Exposition}\\*  
+  \end{flushleft} 
+  \vspace{0.5cm}
+    \large{	Visitors will get a glimpse of everything in the front page where most of the features are visible. In addition to that, there will be drop-down menus, tabs on the top of the website. Basic coloring of the tabs and menus will ensure that the design is attractive. Furthermore, a space for advertisement will be provided in the below-right corner while specific agents will be able to advertise their product on the left.
+    A registration and login window will be situated near the drop-down menus on the top. However, the final design might look a little different, depending on the requirements. Upon entering the site, visitors can do the followings:  
+    }    
+    
+    \begin{itemize}
+    
+     \large\item Create an account 
+     \item Ask questions in the "Ask anything" box 
+     \item Click on drop-down menus to checkout crucial information about Banks
+     \item Checkout advertisements
+     \item Ask a question directly to the moderator on the "Ask a Mod" tab
+     \item Contact specific banks from the top menus
+     \item And more
+     
+   \end{itemize}
+    \vspace{0.5cm}
+  \begin{flushleft}
+  \large{Experts\& Certified agents from different Banks will be able to:}\\*  
+  \end{flushleft} 
+   \vspace{0.5cm}
+   \begin{itemize}
+     \large\item Create an account 
+     \item Request the Moderators/Admins to post their Ads
+     \item Help visitors to establish contact with their Banks 
+     \item Contact Users/Visitors 
+     \item Answer questions and highlight their respective Bank's features 
+     \item Become moderators after a certain amount of time 
+    
+     
+   \end{itemize}
+   \thispagestyle{empty}
+   
+   \breakpage
+     \newpage
+     
+     \begin{flushleft}\huge\textbf{Languages \& Resources}
+    \vspace{0.5cm}
+       \begin{itemize}
+     \large \item HTML
+      \item CSS
+      \item JavaScript 
+      \item PHP
+      \item MySQL
+     \item Apache Web Server
+     \item SMTP Service     
+     
+    \end{itemize} 
+
+      
+     \end{flushleft} 
+     
+     \vspace{1cm}
+     
+     \begin{flushleft}\huge\textbf{Challenges \& Obstacles}
+    \vspace{0.5cm} 
+     
+    \large{Obviously, there are some obstacles that we’ll need to overcome. Promotion of this website is crucial and difficult at the same time. Besides promotion, earning trust of the general public will also be a hefty task. In addition to that, crowd control & spam protecting will be an issue since we are aiming to build a huge community around the website. The shortage of moderators might affect the user experience in the long run.} 
+     
+     
+      \end{flushleft} 
+    
+\end{document}
+
+
+
+
