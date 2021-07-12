@@ -16,15 +16,14 @@
     \Large{Department of Electrical and Computer Engineering}   
     \setlength{\parskip}{1em}
  
-    \huge\textmd{Project Proposal} 
-    
+    \huge\textmd{Project Proposal}\\* 
     \Huge\textbf{Smart Banking Solution}  
      \end{figure}
-  
-    
+ 
     \begin{center}\large{DATABASE SYSTEM LAB}\\* 
                 \large{CSE311L}\\*   
                 \large{Section-2}\\*   
+                \large{Semester: Summer 2021}\\*    
             \end{center}    
    
     \begin{flushleft}\large{Student Name \& ID:\hspace{150}  Course Faculty }\\*
@@ -69,7 +68,7 @@
     \begin{flushleft}
     \huge\textbf{Value Proposition}\\*
     \vspace{0.5cm}
-    \large{Our primary vision is to reach out to general citizens and guide them to a meaningful Banking experience. Additionally, the website will minimize the time and effort required to access accurate information related to Banking. Hence, fraudulent businesses won’t be able to harm anyone financially. Moreover, there are business opportunities embedded within the website’s design where Banks & certified agents can represent and promote their Bank.
+    \large{Our primary vision is to reach out to general citizens and guide them to a meaningful Banking experience. Additionally, the website will minimize the time and effort required to access accurate information related to Banking. Hence, fraudulent businesses won’t be able to harm anyone financially. Moreover, there are business opportunities embedded within the website’s design where Banks \& certified agents can represent and promote their Bank.
     }    
     
     \end{flushleft}
@@ -83,23 +82,23 @@
     \large{	Visitors will get a glimpse of everything in the front page where most of the features are visible. In addition to that, there will be drop-down menus, tabs on the top of the website. Basic coloring of the tabs and menus will ensure that the design is attractive. Furthermore, a space for advertisement will be provided in the below-right corner while specific agents will be able to advertise their product on the left.
     A registration and login window will be situated near the drop-down menus on the top. However, the final design might look a little different, depending on the requirements. Upon entering the site, visitors can do the followings:  
     }    
-    
+    \vspace{0.3cm}
     \begin{itemize}
     
      \large\item Create an account 
-     \item Ask questions in the "Ask anything" box 
+     \item Ask questions in the \textbf{Ask anything} box 
      \item Click on drop-down menus to checkout crucial information about Banks
      \item Checkout advertisements
-     \item Ask a question directly to the moderator on the "Ask a Mod" tab
-     \item Contact specific banks from the top menus
-     \item And more
+     \item Ask a question directly to the moderator on the \textbf{Ask a Mod} tab
+     \item Contact specific banks from the top menus 
+     \item Interact with the Navigation Menu 
      
    \end{itemize}
-    \vspace{0.5cm}
+    \vspace{0.3cm}
   \begin{flushleft}
-  \large{Experts\& Certified agents from different Banks will be able to:}\\*  
+  \large{Experts \& Certified agents from different Banks will be able to:}\\*  
   \end{flushleft} 
-   \vspace{0.5cm}
+   \vspace{0.3cm}
    \begin{itemize}
      \large\item Create an account 
      \item Request the Moderators/Admins to post their Ads
@@ -134,8 +133,7 @@
      \begin{flushleft}\huge\textbf{Challenges \& Obstacles}
     \vspace{0.5cm} 
      
-    \large{Obviously, there are some obstacles that we’ll need to overcome. Promotion of this website is crucial and difficult at the same time. Besides promotion, earning trust of the general public will also be a hefty task. In addition to that, crowd control & spam protecting will be an issue since we are aiming to build a huge community around the website. The shortage of moderators might affect the user experience in the long run.} 
+    \large{Obviously, there are some obstacles that we’ll need to overcome. Promotion of this website is crucial and difficult at the same time. Besides promotion, earning trust of the general public will also be a hefty task. In addition to that, crowd control \& spam protection will be an issue since we are aiming to build a huge community around the website. The shortage of moderators might affect the user experience in the long run.} 
      
       \end{flushleft} 
 \end{document}
-
