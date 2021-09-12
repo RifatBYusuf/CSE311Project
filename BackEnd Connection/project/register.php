@@ -195,7 +195,8 @@
 </style>
 
 <body>
-    <form = action="connect.php" method="post">
+    
+    <form = action="connect.php" method="post"> 
     <nav>
         <ul>
             <li> <a href="index.html"> Home </a> 
@@ -225,9 +226,10 @@
                         <label for="text-f2" class="-label">Email</label>
                         <input type="text" class="form-control" name="Email" access="false" id="Email">
                     </div>
+            
                     <div class=" form-group field-text-f3">
-                        <label for="text-f3" class="-label">Phone</label>
-                        <input type="number" class="form-control" name="Phone_Number" access="false" maxlength="300" id="Phone_Number">
+                        <label for="text-f3" class="-label">Phone </label>
+                        <input type="number" class="form-control" name="Phone" access="false" maxlength="11" id="Phone">
                     </div>
                     <div class=" form-group field-text-f4">
                         <label for="text-f4" class="-label">Age</label>
@@ -237,7 +239,6 @@
                         <label for="text-f41" class="-label">Password</label>
                         <input type="password" class="form-control" name="Password" access="false" maxlength="300" id="Password">
                     </div>
-                    
                     <div class="subs">
                         <lavel for="subscheck">Subscribe for 100BDT per month?</lavel>
                         <input type="checkbox" id="subcheckbox" name="subscheck" onclick="subfnc()">
@@ -253,7 +254,7 @@
                             <div class=" form-group field-text-f311">
                                 <label for="text-f311" class="-label">Date</label>
                                 <input type="text" class="form-control" name="Date_Time" access="false" maxlength="1000" id="Date_Time">
-                                 </form>
+                                 
                             </div>
                         </div>
                     </div>
@@ -261,6 +262,7 @@
                         <button type="submit">Signup</button>
 
                     </div>
+                    </form>
                 </div>
             </div>
         </div>
@@ -268,7 +270,7 @@
             <div class="rightbox">
                 <h1 class=""> Sign up as Agent</h1>
                 <div class="regform">
-                    
+                    <form = action="check.php" method="post"> 
                     <div class="rendered-form">
                         <div class=" form-group field-text-f1">
                             <label for="text-f1" class="-label">Name</label>
@@ -278,13 +280,14 @@
                             <label for="text-f2" class="-label">Email</label>
                             <input type="text" class="form-control" name="Email2" access="false" id="Email2">
                         </div>
+                        
                         <div class=" form-group field-text-f3">
                             <label for="text-f3" class="-label">Phone </label>
-                            <input type="text" class="form-control" name="Phone2" access="false" maxlength="11" id="Phone2>
+                            <input type="number" class="form-control" name="Phone2" access="false" maxlength="11" id="Phone2>
                         </div>
                         <div class=" form-group field-text-f4">
                             <label for="text-f4" class="-label">Age</label>
-                            <input type="text" class="form-control" name="Age2" access="false" maxlength="3" id="Age2">
+                            <input type="number" class="form-control" name="Age2" access="false" maxlength="3" id="Age2">
                         </div>
                         <div class=" form-group field-text-f41">
                             <label for="text-f41" class="-label">Password</label>
@@ -293,20 +296,22 @@
                         
                         <div class=" form-group field-text-f21">
                             <label for="text-f21" class="-label">Bank ID</label>
-                            <input type="text" class="form-control" name="Bank ID" access="false" id="Bank ID">
+                            <input type="number" class="form-control" name="Bank_ID" access="false" id="Bank_ID">
                         </div>
                         <div class=" form-group field-text-f211">
                             <label for="text-f211" class="-label">Bank Name</label>
-                            <input type="text" class="form-control" name="Bank Name" access="false" id="Bank Name">
+                            <input type="text" class="form-control" name="Bank_Name" access="false" id="Bank_Name">
                         </div>
                         <div class=" form-group field-text-f2111">
                             <label for="text-f2111" class="-label">NID</label>
-                            <input type="text" class="form-control" name="NID" access="false" id="NID">
+                            <input type="number" class="form-control" name="NID" access="false" id="NID">
                              
                         </div>
                         <div class="form-button">
-                            <button type="button">Signup</button>
+                            <button type="submit">Signup</button>
+        
                         </div>
+                        </form>
                     </div>
                 </div>
             </div>
@@ -323,6 +328,7 @@
                     }
                 }
     </script>
+  
 </body> 
 </form>
 </html>
